@@ -11,5 +11,8 @@ Getting started:
 Neural Networks:
 - [ ] Giant Neural Network series [YouTube](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
 
+NLP:
+- [ ] https://lena-voita.github.io/nlp_course.html
+
 AI conference deadlines:
 https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM
