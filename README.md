@@ -17,5 +17,11 @@ Neural Networks:
 NLP:
 - [ ] https://lena-voita.github.io/nlp_course.html
 
+Differential Privacy:
+- [ ] https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp
+
 AI conference deadlines:
 https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM
+
+Open to everyone mentorship sessions:
+https://mementor.net/#/
