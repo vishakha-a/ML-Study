@@ -10,6 +10,7 @@ Getting started:
 
 - [ ] CMU ML series taught by Roni Rosenfeld [Playlist](https://youtube.com/playlist?list=PL7k0r4t5c10-g7CWCnHfZOAxLaiNinChk)
 - [ ] ML with scikit-learn intro [course](https://courses.dataschool.io/introduction-to-machine-learning-with-scikit-learn)
+- [ ] https://mlvu.github.io/ - watching for Masakhane's reading group
 
 Neural Networks:
 - [ ] Giant Neural Network series [YouTube](https://www.youtube.com/playlist?list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
