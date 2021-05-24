@@ -22,6 +22,12 @@ NLP:
 Differential Privacy:
 - [ ] https://www.youtube.com/playlist?list=PLmd_zeMNzSvRRNpoEWkVo6QY_6rR3SHjp
 
+Resources recommended by Espoir
+- https://www.reddit.com/r/learnmachinelearning/
+- https://www.reddit.com/r/learnpython/
+- https://pycoders.com/
+
+
 AI conference deadlines:
 https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM
 
