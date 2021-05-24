@@ -28,6 +28,10 @@ Resources recommended by Espoir
 - https://pycoders.com/
 
 
+For Mitacs internship
+- https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed
+
+
 AI conference deadlines:
 https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM
 
